@@ -1,7 +1,7 @@
 # COMANDOS BÁSICOS DE GIT
 # Taller – Git & GitHub (flujo individual, sin ramas)
 Nombre:Alejandro Rafael Corrales Osorio
-Matrícula:2243076102
+Matrícula:22430
 
 ====================================================================
 0) AYUDA RÁPIDA (para cuando te trabes)
